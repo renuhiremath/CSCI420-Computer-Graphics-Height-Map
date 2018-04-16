@@ -13,10 +13,10 @@ Visualize a Height Map using OpenGL
 - Use input from the mouse to change the dimensions of the height field using OpenGLMatrix::Scale.
 
 Functionalities implemented:
-
 1 - Points (White dots)
 2 - Lines (White Lines whose colors depends on the height)
 3 - Triangles (White Triangles whose colors depends on the height)
+
 (Extra Credit)
 4 - Triangle Strip (Red Triangles whose colors depends on the height)
 5 - Wireframe (Red Triangles and White Lines whose colors depends on the height)
