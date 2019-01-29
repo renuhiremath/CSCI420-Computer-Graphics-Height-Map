@@ -1,4 +1,4 @@
-# CSCI420-Computer-Graphics-Height-Map
+# Computer-Graphics-Height-Map
 
 Problem Statement : http://www-bcf.usc.edu/~jbarbic/cs420-s18/runuscedu/cs420-s18/assignments/assign1/assign1.html
 
